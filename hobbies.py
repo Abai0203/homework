@@ -10,3 +10,6 @@ print("A little about me:")
 print("I try to develop myself and learn new things.")
 print("Sometimes I play sports.")
 print("In my free time I can spend time on my computer.")
+
+print()
+print("Thank you for your attention!")
